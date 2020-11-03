@@ -8,13 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace projPractical5new
-    //================================================================================================================================================
-    //Program: Practical 5
-    //Date: 12/10/2020
-    //Author: Rory Loughran
-    //Description: This program is a simple calculator that performs simple calculations such as addition, subtraction, multiplication and division.
-    //================================================================================================================================================
+namespace projWolfeofMaloneNew
+
 {
     public partial class Form1 : Form
     {
